@@ -1,4 +1,4 @@
 # README
-# master | mabranche
+# mabranche
 
 # commentaire sur mabranche
